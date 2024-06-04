@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1709600538 source:c:\code\c\test_ue1\src\world.cpp
+	"World.h"
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<windows.h>
+
+1709599119 c:\code\c\test_ue1\include\world.h
+
+1709600339 source:c:\code\c\test_ue1\main.cpp
+	<iostream>
+	<stdlib.h>
+	"World.h"
+	"PlayerCharacter.h"
+
+1709600401 source:c:\code\c\test_ue1\src\playercharacter.cpp
+	"PlayerCharacter.h"
+	<World.h>
+	<iostream>
+	<windows.h>
+
+1709599888 c:\code\c\test_ue1\include\playercharacter.h
+	<World.h>
+	<string>
+
